@@ -1,5 +1,6 @@
-//```js
-// app.js file content
+const sum = (a,b) => {
 
-//```
-console.log("Hello World");
+    return a + b
+};
+
+console.log(sum(4,3));
